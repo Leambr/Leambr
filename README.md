@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Léa! 👋🏽
 
+I'm a frontend developer student from France.
 <!--
 **Leambr/Leambr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
