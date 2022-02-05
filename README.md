@@ -1,6 +1,7 @@
 ### Hi, I'm Léa! 👋🏽
 
-I'm a frontend developer student from France.
+I'm a frontend and backend developer student from France.
+I also do UI design on Figma!
 <!--
 **Leambr/Leambr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
