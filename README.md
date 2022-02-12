@@ -1,7 +1,7 @@
-### Hi, I'm Léa! 👋🏽
+### Hi, I'm Léa! Welcome to my Github! 👋🏽
 
 I'm a frontend and backend developer student from France.<br>
-I also do UI design on Figma!<br>
+I also do UI design on Figma!<br><br>
 [LinkedIn](https://www.linkedin.com/in/lea-mhoumadi)
 <!--
 **Leambr/Leambr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
