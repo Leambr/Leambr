@@ -1,6 +1,6 @@
 ### Hi, I'm Léa! Welcome to my Github! 👋🏽
 
-I'm a frontend and backend developer student from France.<br>
+I'm a frontend and backend developer from France.<br>
 I also do UX/UI design on Figma!<br><br>
 [LinkedIn](https://www.linkedin.com/in/lea-mhoumadi)
 <!--
