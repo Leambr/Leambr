@@ -2,7 +2,7 @@
 
 I'm a frontend and backend developer from France.<br>
 I also do UX/UI design on Figma!<br><br>
-[LinkedIn](https://www.linkedin.com/in/lea-mhoumadi)
+
 <!--
 **Leambr/Leambr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
