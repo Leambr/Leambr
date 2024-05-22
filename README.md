@@ -1,6 +1,6 @@
 ### Hi, I'm Léa! Welcome to my Github! 👋🏽
 
-I'm a frontend and backend developer from France.<br>
+I'm a frontend developer from France.<br>
 I also do UX/UI design on Figma!<br><br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leambr&layout=compact) -->
